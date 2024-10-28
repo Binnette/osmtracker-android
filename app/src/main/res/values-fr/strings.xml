@@ -109,7 +109,7 @@
   <!--About screen-->
   <string name="about">À propos</string>
   <string name="about_text">Pour plus d\'informations, documentation et bugs, veuillez visiter la page du projet :</string>
-  <string name="about_translate_text">Aidez à traduire OSMTracker</string>
+  <string name="about_translate_text">Aidez à traduire OSMTracker :</string>
   <string name="about_debug_info">Info de débogage</string>
   <string name="about_export_db">Export de la base de données</string>
   <string name="about_exporting_db">Exportation de la base de données ...</string>
